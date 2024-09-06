@@ -101,7 +101,7 @@ int main()
     cin >> epsilon >> delta;
 
     // Perform 10 runs of bounding phase and secant method
-    for (int i = 1; i <= 1; i++)
+    for (int i = 1; i <= 10; i++)
     {
         cout << "Run " << i << " ->" << endl;
 
